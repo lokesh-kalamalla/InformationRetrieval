@@ -16,12 +16,12 @@ Dataset used - [Kaggle-movie-plots](https://www.kaggle.com/jrobischon/wikipedia-
 Have a look at the file [Design Architecture](https://github.com/JuiP/Information-Retrieval/blob/main/Design%20Architecture.pdf). It includes the concepts used along with the modified implementation of the TF-IDF ranking.
 
 Project By:
-- **Vedant Dhoble**: Email- <vedantmanoj.d19@iiits.in>
+- **Vedant Dhoble**: Email- <lokesh.k20@iiits.in>
 --------------------------------------------------------------------------------------------------
 **How to run the code**
 --------------------------------------------------------------------------------------------------
 
-1. Clone the repository : [https://github.com/VedanT-27/Information-Retrieval-main.git](https://github.com/VedanT-27/Information-Retrieval-main.git)
+1. Clone the repository : [https://github.com/lokesh-kalamalla/InformationRetrieval](https://github.com/lokesh-kalamalla/InformationRetrieval)
 2. cd Information-Retrieval
 3. Run files in the order: 
 
